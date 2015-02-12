@@ -8,6 +8,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
+         <link type="text/css" rel="stylesheet" href="css/custom-style.css">
     </head>
     <body>
 

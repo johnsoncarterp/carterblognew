@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+}
+
+button {
+    background-color: orange;
+}
+
+a {
+    color: whitesmoke;
+    font-size: 15px;
+}
+
+p {
+    color: orange;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+
+button:hover {
+    background-color: gray;
+}
