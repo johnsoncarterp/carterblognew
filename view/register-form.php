@@ -1,17 +1,24 @@
-<form>
+<?php
+require_once(__DIR__ . "/../model/config.php");
+?>
+
+
+<h1>Register</h1>
+
+<form method="post" action="<?php echo $path . "controller/create-user.php";?> ">
     <div>
         <label for="email">Email: </label>
-        <imput type="text" name="email" />
+        <input type="text" name="email" />
     </div>
     
     <div>
        <label for="username">Username: </label>
-     <imput type="text" name="username" /> 
+     <input type="text" name="username" /> 
     </div>
     
     <div>
         <label for="password">Password: </label>
-     <imput type="password" name="password" />
+     <input type="password" name="password" />
     </div>
     
     <div>
