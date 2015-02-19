@@ -9,6 +9,8 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
          <link type="text/css" rel="stylesheet" href="css/custom-style.css">
+    <button><a href="register.php">Register</a></button>
+    <button><a href="index.php">Home</a></button>
     </head>
     <body>
 
