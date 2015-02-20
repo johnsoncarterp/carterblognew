@@ -11,6 +11,7 @@ and open the template in the editor.
          <link type="text/css" rel="stylesheet" href="css/custom-style.css">
     <button><a href="register.php">Register</a></button>
     <button><a href="index.php">Home</a></button>
+    <button><a href="login.php">Login</a></button>
     </head>
     <body>
 
