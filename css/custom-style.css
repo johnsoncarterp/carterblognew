@@ -1,23 +1,23 @@
 body {
-    background-color: whitesmoke;
+    background-color: gray;
 }
 
 button {
-    background-color: orange;
+    background-color: navy;
 }
 
 a {
-    color: whitesmoke;
+    color: graytext;
     font-size: 15px;
 }
 
 p {
-    color: orange;
+    color: navy;
     font-family: monospace;
     font-size: 20px;
 }
 
 
 button:hover {
-    background-color: gray;
+    background-color: whitesmoke;
 }
