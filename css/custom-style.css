@@ -1,14 +1,17 @@
-body {
-    background-color: gray;
-}
 
-button {
-    background-color: navy;
+body{
+    background-image:url('http://www.thegroundmag.com/wp-content/uploads/EC_Dark_Robins_Egg_9177_V1.jpg');
+    
 }
 
 a {
-    color: graytext;
+    color: navy;
     font-size: 15px;
+}
+nav{
+    color:black;
+    height:50px;
+    with:100px;
 }
 
 p {
@@ -16,8 +19,29 @@ p {
     font-family: monospace;
     font-size: 20px;
 }
-
+.nav nav-tabs {
+    margin-top: 15px;
+    background-color: black;
+}
 
 button:hover {
-    background-color: whitesmoke;
+    background-color: lightskyblue;
+}
+
+a {
+   background-color: lightskyblue; 
+}
+
+ #blog nav {
+    text-align: center;
+    padding-left: 90px;
+}
+
+.jumbotron{
+    text-align: center;
+    padding-right: 100px;
+}
+
+nav {
+    padding-left: 505px;
 }
