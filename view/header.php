@@ -3,33 +3,36 @@
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
--->
+--><body>
 <html>
-    <head>
-        <meta charset="UTF-8">
-         <title>C Blog</title>
-    <link rel="icon" href="http://cf067b.medialib.glogster.com/media/05/0580ec8688aa7cbdeab84cdaa2c8ccefe881b9b4d69372af9663b25b27980469/fish-gif.gif" type="image/x-icon">
-        <link type="text/css" rel="stylesheet" href="css/bootstrap-theme.css">
-        <link type="text/css" rel="stylesheet" href="css/bootstrap.css">
-         <link type="text/css" rel="stylesheet" href="css/custom-style.css">
-                 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-        <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
-        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
-        
+
+    <meta charset="UTF-8">
+    <title>Blog</title>
+    <link rel="icon" href="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lilyu's_turtle.svg/600px-Lilyu's_turtle.svg.png" type="image/x-icon">
+    <!--my title bar icon-->
+    <link type="text/css" rel="stylesheet" href="css/bootstrap-theme.css">
+    <link type="text/css" rel="stylesheet" href="css/bootstrap.css">
+    <link type="text/css" rel="stylesheet" href="css/custom-style.css">
+    <!-- my bootstrap and css links-->
     <nav>        
         <ul class="nav nav-tabs">
             <li role="presentation" ><a href="index.php">Home</a></li>
             <li role="presentation" ><a href="register.php">Register</a></li>
             <li role="presentation" ><a href="login.php">Login</a></li>
-            <li role="presentation" ><a href="/carterblog/controller/logout-user.php">Logout</a></li></button>
+            <li role="presentation" ><a href="/carterblog/controller/logout-user.php">Logout</a></li>
         </ul>
     </nav>
+
+    <!-- how i navigate my blog-->
     <article>
-                <div class="jumbotron">
-                <h1>C Blog</h1>
-            </div>
+        <div class="jumbotron">
+            <h1>Blog</h1>
+        </div>
     </article>
-    <img src="http://visionaryartistrymag.com/wp-content/uploads/2014/07/cla1.jpg" alt="Suni" style="float:right;" class="img-circle" />
-    </head>
-    <body>
+    <!-- my jumbotron-->
+        <img src="http://www.traveltoamazingplace.com/wp-content/uploads/2015/01/clark-little-8.jpg" alt="Suni" style="float:right;" class="img-circle" />
+    <!-- my image -->
+</head>
+
+</html>
 
