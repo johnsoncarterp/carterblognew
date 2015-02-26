@@ -7,7 +7,8 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Carter Johnson</title>
+         <title>C Blog</title>
+    <link rel="icon" href="http://cf067b.medialib.glogster.com/media/05/0580ec8688aa7cbdeab84cdaa2c8ccefe881b9b4d69372af9663b25b27980469/fish-gif.gif" type="image/x-icon">
         <link type="text/css" rel="stylesheet" href="css/bootstrap-theme.css">
         <link type="text/css" rel="stylesheet" href="css/bootstrap.css">
          <link type="text/css" rel="stylesheet" href="css/custom-style.css">
@@ -25,10 +26,10 @@ and open the template in the editor.
     </nav>
     <article>
                 <div class="jumbotron">
-                <h1>Blog</h1>
+                <h1>C Blog</h1>
             </div>
     </article>
-    
+    <img src="http://visionaryartistrymag.com/wp-content/uploads/2014/07/cla1.jpg" alt="Suni" style="float:right;" class="img-circle" />
     </head>
     <body>
 
